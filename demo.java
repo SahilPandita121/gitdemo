@@ -1,7 +1,7 @@
-class Demo(){
+class Demo{
 	public static void main(String args[])
 	{
-		sop("git demo");
+		System.out.pritnln("git demo");
 	}
 }
 
